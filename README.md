@@ -28,7 +28,7 @@ The main objective of our research is to exploit explainability to design advers
 -   [UC Berkley "Measuring Hate Speech" dataset](https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech) (from HuggingFace)
 
 ### File Structure
-.
+
 ├── Colab NoteBooks
 │   ├── HuggingFace
 │   │   ├── HuggingFaceCNN.ipynb
