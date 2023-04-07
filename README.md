@@ -29,6 +29,8 @@ The main objective of our research is to exploit explainability to design advers
 
 ### File Structure
 
+```
+.
 ├── Colab NoteBooks
 │   ├── HuggingFace
 │   │   ├── HuggingFaceCNN.ipynb
@@ -49,6 +51,7 @@ The main objective of our research is to exploit explainability to design advers
 └── Results
     ├── confusion_matrices
     └── performance_metrics
+```
 
 ### Usage
 
