@@ -53,6 +53,8 @@ The main objective of our research is to exploit explainability to design advers
     └── performance_metrics
 ```
 
+[Link to Model Weights](https://drive.google.com/drive/folders/1qtXdbE8sqyMTq-FZcEdA_1IcED1ISRD3?usp=sharing)
+
 ### Usage
 
 To run the scripts, install the required dependencies [to be added soon] and execute the scripts.
