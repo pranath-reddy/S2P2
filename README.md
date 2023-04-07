@@ -7,8 +7,8 @@ Repository for the course project of CIS6930 (NLP)
 ### (S2P2) Team Members:
 
 -   **Sohaib Uddin Syed** - Captain, Linguistics and Data Processing
--   **Pranath Reddy Kumbam** - Experiment Design, Algorithm Implementation and Training Python
--   **Suhas Harish** - Programming and Implementation
+-   **Pranath Reddy Kumbam** - Experiment Design, Algorithm Implementation and Model Training 
+-   **Suhas Harish** - Python Programming and Implementation
 -   **Prashanth Thamminedi** - Metrics Calculation, Analysis and Slide Creation
 
 ### Overview
