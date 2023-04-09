@@ -7,8 +7,8 @@ Repository for the course project of CIS6930 (NLP)
 ### (S2P2) Team Members:
 
 -   **Sohaib Uddin Syed** - Captain, Linguistics and Data Processing
--   **Pranath Reddy Kumbam** - Experiment Design, Algorithm Implementation and Training Python
--   **Suhas Harish** - Programming and Implementation
+-   **Pranath Reddy Kumbam** - Experiment Design, Algorithm Implementation and Model Training 
+-   **Suhas Harish** - Python Programming and Implementation
 -   **Prashanth Thamminedi** - Metrics Calculation, Analysis and Slide Creation
 
 ### Overview
@@ -39,7 +39,8 @@ The main objective of our research is to exploit explainability to design advers
 │   └── Kaggle
 │       ├── KaggleCNN.ipynb
 │       ├── KaggleDistilBERT-TPU.ipynb
-│       └── KaggleLSTM.ipynb
+│       ├── KaggleLSTM.ipynb
+|       └── KaggleLSTM_Experimentation.ipynb
 ├── ConfMat_Binary.py
 ├── ConfMat_Multi.py
 ├── Data
@@ -52,6 +53,10 @@ The main objective of our research is to exploit explainability to design advers
     ├── confusion_matrices
     └── performance_metrics
 ```
+
+### Model Weights
+
+[Link to Model Weights](https://drive.google.com/drive/folders/1qtXdbE8sqyMTq-FZcEdA_1IcED1ISRD3?usp=sharing)
 
 ### Usage
 
